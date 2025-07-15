@@ -7,13 +7,13 @@ This is my quiz game project built using Python that:
 # Features
 - Random multiple-choice questions from [Open Trivia DB](https://opentdb.com/)
 - Score tracking
-- ~~GUI version using tkinter~~
+- ~~GUI version using tkinter~~(Maybe upcoming)
 
 # How to Run
-- Download the python file **main.py** from releases (Current version is 0.1)
+- Download the python file or copy the code from **main.py** from repo
 - Use that to run the program in cmd or terminal by using command `python main.py`
 
 # CLI Version:
 python main.py
 
-## Made by Ashwin for LNB 
+## Made by Ashwin Yadav for LNB 
