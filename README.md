@@ -11,7 +11,7 @@ This is my quiz game project built using Python that:
 
 # How to Run
 - Download the python file **main.py** from releases (Current version is 0.1)
-- Use that to run the program in cmd or terminal.
+- Use that to run the program in cmd or terminal by using command `python main.py`
 
 # CLI Version:
 python main.py
