@@ -1,19 +1,23 @@
-# Quiz-Game-Project
-This is my quiz game project built using Python that:
-- Fetches random trivia questions using an open API
-- Supports both command-line interface
-- Tracks the user's score and shows results at the end.
+# Quiz Game (Python)
 
-# Features
-- Random multiple-choice questions from [Open Trivia DB](https://opentdb.com/)
-- Score tracking
-- ~~GUI version using tkinter~~(Maybe upcoming)
+This is a simple quiz game project built using Python that supports **both Command-Line Interface (CLI)** and **Graphical User Interface (GUI)**.
+It fetches trivia questions from the [Open Trivia DB](https://opentdb.com/) API and lets users test their knowledge with multiple-choice questions.
 
-# How to Run
-- Download the python file or copy the code from **main.py** from repo
-- Use that to run the program in cmd or terminal by using command `python main.py`
+![GUI Screenshot]([https://i.ibb.co/35ZRtrv/quiz-gui.png])
 
-# CLI Version:
-python main.py
+## Features
 
-## Made by Ashwin Yadav for LNB 
+- Random trivia questions from online API
+- Multiple difficulty levels and categories
+- Command-line version (CLI)
+- Graphical version using Tkinter (GUI)
+- Score tracking and final result display
+- Option to choose number of questions and timer duration
+
+## Requirements
+
+- Python 3.x  
+- `requests` library  
+  *(Install with: `pip install requests`)*
+
+## Made by Ashwin Yadav for LNB
