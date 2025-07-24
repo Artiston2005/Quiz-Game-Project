@@ -3,7 +3,7 @@
 This is a simple quiz game project built using Python that supports **both Command-Line Interface (CLI)** and **Graphical User Interface (GUI)**.
 It fetches trivia questions from the [Open Trivia DB](https://opentdb.com/) API and lets users test their knowledge with multiple-choice questions.
 
-![GUI Screenshot]([[https://i.ibb.co/35ZRtrv/quiz-gui.png]](https://ibb.co/35ZRtrvd))
+![GUI Screenshot](https://i.ibb.co/gbK4sjd9/gui-img.png)
 
 ## Features
 
