@@ -5,8 +5,8 @@ It fetches trivia questions from the [Open Trivia DB](https://opentdb.com/) API 
 
 ## Versions
 
-### GUI Version (Graphical Version) `game_quiz.py`
-![GUI Screenshot](https://i.ibb.co/gbK4sjd9/gui-img.png)
+### GUI Version **UPDATED** (Graphical Version) `gui1.py`
+![GUI Screenshot](https://i.ibb.co/KccfT4yC/Screenshot-2025-08-13-231636.png)
 
 ### CLi Version (Commmand-line Version) `main.py`
 ![CLI Screenshot](https://i.ibb.co/ksHLKPgZ/cli-img.png)
