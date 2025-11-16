@@ -7,7 +7,6 @@ It fetches trivia questions from the [Open Trivia DB](https://opentdb.com/) API 
 
 ### GUI Version **UPDATED** (Graphical Version) `gui1.py`
 <img width="923" height="740" alt="Screenshot 2025-08-10 223901" src="https://github.com/user-attachments/assets/e8fadae5-42d1-448c-b433-ac34d477d8f3" />
-31636.png)
 
 ### CLi Version (Commmand-line Version) `main.py`
 ![CLI Screenshot](https://i.ibb.co/ksHLKPgZ/cli-img.png)
