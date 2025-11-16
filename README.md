@@ -9,7 +9,8 @@ It fetches trivia questions from the [Open Trivia DB](https://opentdb.com/) API 
 <img width="923" height="740" alt="Screenshot 2025-08-10 223901" src="https://github.com/user-attachments/assets/e8fadae5-42d1-448c-b433-ac34d477d8f3" />
 
 ### CLi Version (Commmand-line Version) `main.py`
-![CLI Screenshot](https://i.ibb.co/ksHLKPgZ/cli-img.png)
+<img width="1932" height="383" alt="cli_img" src="https://github.com/user-attachments/assets/45b60085-0cf0-48e4-994d-58201fbde260" />
+
 
 ## Features
 
